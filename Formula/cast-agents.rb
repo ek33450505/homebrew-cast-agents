@@ -1,9 +1,9 @@
 class CastAgents < Formula
   desc "17 specialist Claude Code agents — commit, debug, review, plan, and more"
   homepage "https://github.com/ek33450505/cast-agents"
-  url "https://github.com/ek33450505/cast-agents/archive/refs/tags/v0.2.0.tar.gz"
-  version "0.2.0"
-  sha256 "586d8cfa6068989b9ff1c94ec627bc744d41b7b84874d013d58a8f20df4f4aad"
+  url "https://github.com/ek33450505/cast-agents/archive/refs/tags/v0.3.0.tar.gz"
+  version "0.3.0"
+  sha256 "d54f4c9057f1e60bb5683f04c76697b67a163317dd21c635e10ee54d0c88059f"
   license "MIT"
 
   def install
